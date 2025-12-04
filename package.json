@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tidy-dev-team/POC-ANT/issues"
   },
-  "homepage": "https://github.com/tidy-dev-team/POC-ANT#readme"
+  "homepage": "https://github.com/tidy-dev-team/POC-ANT#readme",
+  "dependencies": {
+    "antd": "5.22"
+  }
 }
