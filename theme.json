@@ -1,0 +1,70 @@
+{
+  "token": {
+    "colorLink": "#1C4AD3",
+    "colorPrimary": "#1C4AD3",
+    "colorSuccess": "#389E0D",
+    "colorSuccessBg": "#F6FFED",
+    "colorError": "#FF4D4F",
+    "sizeXS": 8,
+    "sizeSM": 12,
+    "size": 16,
+    "sizeMD": 20,
+    "sizeLG": 24,
+    "marginXS": 8,
+    "marginSM": 12,
+    "margin": 16,
+    "marginMD": 20,
+    "marginLG": 24,
+    "paddingXS": 8,
+    "paddingSM": 12,
+    "padding": 16,
+    "paddingMD": 20,
+    "paddingLG": 24
+  },
+  "components": {
+    "Table": {
+      "borderRadiusLG": 0,
+      "headerBorderRadius": 3
+    },
+    "Button": {
+      "borderRadiusSM": 2,
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Input": {
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "InputNumber": {
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Select": {
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Radio": {
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Tag": {
+      "borderRadiusSM": 2,
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Alert": {
+      "borderRadiusSM": 2,
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Modal": {
+      "borderRadiusSM": 2,
+      "borderRadius": 2,
+      "borderRadiusLG": 3
+    },
+    "Dropdown": {
+      "borderRadiusLG": 3,
+      "borderRadiusSM": 2
+    }
+  }
+}
